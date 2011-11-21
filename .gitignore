@@ -48,7 +48,6 @@ core
 
 # binary file
 *.node
-build/*
 
 # wscript files
 .lock-wscript
